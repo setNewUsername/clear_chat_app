@@ -1,0 +1,6 @@
+[submodule "clear_chat_app_client"]
+	path = clear_chat_app_client
+	url = git@github.com:setNewUsername/clear_chat_app_client.git
+[submodule "clear_chat_app_server"]
+	path = clear_chat_app_server
+	url = git@github.com:setNewUsername/clear_chat_app_server.git
